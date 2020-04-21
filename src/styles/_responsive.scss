@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    .site-main{
+        .container{
+            .cars-container {
+                .car-item {
+                    width: 49%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 556px) {
+    .site-main{
+        .container{
+            .cars-container {
+                .car-item {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "modelClass": "Q50",
+    "version": "2.OT LUXE",
+    "price": {
+      "amount": "171800.00",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/Q50.png"
+  },
+  {
+    "modelClass": "Q60",
+    "version": "2.OT",
+    "price": {
+      "amount": "190800.00",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/Q60.png"
+  },
+  {
+    "modelClass": "Q60",
+    "version": "3.0T Red Sport 400",
+    "price": {
+      "amount": "270800.00",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/Q60_3_0.webp"
+  },
+  {
+    "modelClass": "Q70",
+    "version": "PREMIUM 2.5",
+    "price": {
+      "amount": "231800",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/Q70.png"
+  },
+  {
+    "modelClass": "QX50",
+    "version": "SENSORY",
+    "price": {
+      "amount": "220800.00",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/QX50.png"
+  },
+  {
+    "modelClass": "QX80",
+    "version": "5.6 V8",
+    "price": {
+      "amount": "349800",
+      "currency": "SGD",
+      "locale": "en-SG"
+    },
+    "imagePath": "/assets/carImages/QX80.png"
+  }
+]
